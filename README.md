@@ -15,6 +15,11 @@ FastRecharge is a modern FASTag auto-recharge platform that helps users manage t
 - **Responsive Design**: Fully responsive and mobile-friendly UI.
 - **Beautiful UI**: Built with Tailwind CSS and Lucide icons for a modern look.
 
+- ![image](https://github.com/user-attachments/assets/0c8453e4-4e56-484b-bfcf-e0b893d1a8ff)
+- ![image](https://github.com/user-attachments/assets/377d948d-debd-47f2-b490-077f94c5ab71)
+
+
+
 ## Tech Stack
 
 - **Frontend**: React, TypeScript, React Router, Framer Motion
